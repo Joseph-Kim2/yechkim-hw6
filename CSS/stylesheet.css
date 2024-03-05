@@ -7,3 +7,7 @@ body { background: #f5f5fa;
     background-color: white;
     border: 1px solid black;
 }
+
+p {
+    color: blue;
+}
